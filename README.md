@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @FrancescoChiocchi8
+<h1 align="center">Hi, I'm Francesco Chiocchi</h1>
+
 - ⚽ I play futsal in Camerino
 - 🌱 I’m currently learning Python, Repast4py and Java
 
